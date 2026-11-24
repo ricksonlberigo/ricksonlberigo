@@ -32,20 +32,14 @@ Em paralelo, toco a **Avram Sistemas**, meu estúdio de software: sites e sistem
 
 ## 🚩 Em destaque: Avram Prospect
 
-<table>
-  <tr>
-    <td>
+> **Radar de clientes para agências e freelancers.** Encontra empresas reais por cidade e nicho, qualifica cada oportunidade com critérios explicáveis, organiza tudo num pipeline Kanban e prepara uma prévia de site personalizada para o primeiro contato, publicada com um clique.
 
-**Radar de clientes para agências e freelancers.** Encontra empresas reais por cidade e nicho, qualifica cada oportunidade com critérios explicáveis, organiza tudo num pipeline Kanban e prepara uma prévia de site personalizada para o primeiro contato, publicada com um clique.
-
-| | |
-|:--|:--|
-| 🏢 **Multi-tenant de verdade** | Isolamento por workspace com *Row-Level Security* no PostgreSQL, não só um `where tenant_id` |
-| ⚙️ **Trabalho pesado em fila** | Busca, radar e publicação rodam como jobs no Redis, fora da requisição |
-| 🤖 **IA no fluxo, com revisão humana** | Briefing verificado → copy → design system → landing page de prévia, gerados com Claude Code + Agent Skills |
-| ☁️ **Prévias publicadas** | Cada prévia revisada vai para o Cloudflare Pages com um link próprio |
-| ✅ **Testado** | Mais de 170 testes automatizados em PHPUnit |
-| 🐳 **Ambiente reproduzível** | App, worker, PostgreSQL e Redis no Docker Compose, com healthchecks |
+- 🏢 **Multi-tenant de verdade:** isolamento por workspace com *Row-Level Security* no PostgreSQL, não só um `where tenant_id`
+- ⚙️ **Trabalho pesado em fila:** busca, radar e publicação rodam como jobs no Redis, fora da requisição
+- 🤖 **IA no fluxo, com revisão humana:** briefing verificado → copy → design system → landing page de prévia, gerados com Claude Code + Agent Skills
+- ☁️ **Prévias publicadas:** cada prévia revisada vai para o Cloudflare Pages com um link próprio
+- ✅ **Testado:** mais de 170 testes automatizados em PHPUnit
+- 🐳 **Ambiente reproduzível:** app, worker, PostgreSQL e Redis no Docker Compose, com healthchecks
 
 <p>
   <img src="https://img.shields.io/badge/Laravel_13-0b1410?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel" />
@@ -59,10 +53,6 @@ Em paralelo, toco a **Avram Sistemas**, meu estúdio de software: sites e sistem
 </p>
 
 <sub>🔒 Repositório privado, em construção. Posso mostrar ao vivo numa conversa.</sub>
-
-  </td>
-  </tr>
-</table>
 
 ## Outros projetos
 
@@ -143,7 +133,7 @@ final class Rickson extends Developer
   <summary><strong>📊 GitHub em números</strong></summary>
   <br />
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ricksonlberigo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b1410&title_color=7fb59a&icon_color=4f9474&text_color=d7eadf&locale=pt-br" alt="Estatísticas do GitHub" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ricksonlberigo&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b1410&title_color=7fb59a&icon_color=4f9474&text_color=d7eadf&locale=pt-br" alt="Estatísticas do GitHub" />
     <img height="165" src="https://streak-stats.demolab.com?user=ricksonlberigo&hide_border=true&background=0b1410&ring=4f9474&fire=e0a458&currStreakLabel=7fb59a&sideLabels=d7eadf&currStreakNum=ffffff&sideNums=ffffff&dates=7fb59a&locale=pt_BR" alt="Sequência de contribuições" />
   </p>
   <p align="center">
