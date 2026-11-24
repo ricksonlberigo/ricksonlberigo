@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ricksonl-berigo"><img src="https://img.shields.io/badge/LinkedIn-0b1410?style=flat&logo=linkedin&logoColor=7fb59a" alt="LinkedIn" /></a>
   <a href="mailto:ricksonl.berigo@gmail.com"><img src="https://img.shields.io/badge/ricksonl.berigo%40gmail.com-0b1410?style=flat&logo=gmail&logoColor=7fb59a" alt="E-mail" /></a>
+  <a href="https://avramsistemas.com.br"><img src="https://img.shields.io/badge/avramsistemas.com.br-0b1410?style=flat&logo=googlechrome&logoColor=e0a458" alt="Avram Sistemas" /></a>
   <img src="https://img.shields.io/badge/Iturama%2C%20MG-0b1410?style=flat&logo=googlemaps&logoColor=7fb59a" alt="Iturama, MG" />
   <img src="https://komarev.com/ghpvc/?username=ricksonlberigo&label=visitas&color=2e7a59&style=flat" alt="Visitas ao perfil" />
 </p>
@@ -24,7 +25,7 @@ Sou Desenvolvedor Backend na **Hypersoft Software House**, onde trabalho com PHP
 
 Em 2025 desenvolvi, 100% remoto, uma **API de integração com sistemas de ponto de venda** para a Harrington HPC Microsystems, com filas no Redis, cache, logs estruturados e auditoria de dados.
 
-Em paralelo, toco a **Avram Sistemas**, meu estúdio de software: sites e sistemas para pequenos negócios, do design ao deploy, sempre com testes automatizados antes da entrega. É de lá que está saindo o meu projeto principal, o **Avram Prospect**. Também curso **Engenharia de Computação** na FMU.
+Em paralelo, toco a **[Avram Sistemas](https://avramsistemas.com.br)**, meu estúdio de software: sites e sistemas para pequenos negócios, do design ao deploy, sempre com testes automatizados antes da entrega. É de lá que está saindo o meu projeto principal, o **Avram Prospect**. Também curso **Engenharia de Computação** na FMU.
 
 <p align="center">
   <img src="./assets/trajetoria.png" alt="Mapa da trajetória: A) Hypersoft Software House, desde 2020; B) Engenharia de Computação na FMU, desde 2022; C) Harrington HPC Microsystems, API de POS remota em 2025; D) Avram Sistemas; E) Avram Prospect." width="100%" />
@@ -145,6 +146,7 @@ final class Rickson extends Developer
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/ricksonl-berigo">in/ricksonl-berigo</a>
 - 📩 E-mail: <a href="mailto:ricksonl.berigo@gmail.com">ricksonl.berigo@gmail.com</a>
+- 🌐 Avram Sistemas: <a href="https://avramsistemas.com.br">avramsistemas.com.br</a>
 
 > [!TIP]
 > Precisa de um backend que aguenta o tranco, ou de um site que já entrega o pedido pronto? Me chama.
